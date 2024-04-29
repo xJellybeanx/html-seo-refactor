@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+
 /* changed the selector from a class selector to an element selector */
 header {
     padding: 20px;
@@ -20,11 +21,11 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1 {
     color: #d9dcd6;
 }
 
-header div {
+header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +33,11 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+header section ul {
     list-style-type: none;
 }
 
-header div ul li {
+header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
