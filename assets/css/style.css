@@ -13,7 +13,7 @@ header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    
+
 }
 header section {
     padding-top: 15px;
@@ -34,14 +34,14 @@ li {
     margin-left: 25px;
 }
 
-/* Removed <p> and replaced with highlighted-text */
-.highlighted-text {
-    font-size: 16px;
-}
-
 a {
     color: #ffffff;
     text-decoration: none;
+}
+
+/* Removed <p> and replaced with highlighted-text */
+.highlighted-text {
+    font-size: 16px;
 }
 
 .hero {
